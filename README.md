@@ -215,3 +215,6 @@ Vite reads its environment variables when it starts; restart the development ser
 - The generated plan describes suggested AWS services; the app does not create AWS resources or deploy the plan.
 - Do not submit secrets, credentials, or sensitive personal information in project descriptions.
 - Review generated architecture choices for your project's requirements before implementation.
+
+## Info:
+- This project is a "Side Hustle" Challenge by [Hacktoberfest 2026](https://dev.to/challenges/hacktoberfest-week2-2026-10-12)
