@@ -1,4 +1,4 @@
-# CloudBlueprint AI
+# CloudBlueprint AI - Hacktoberfest Open-Source AI Challenge: Week 2
 
 CloudBlueprint AI turns a project idea into a practical AWS project plan. Enter a project title, the problem it solves, intended users, and any desired features. The app checks that the idea is understandable, then generates a plan with an AWS architecture, data flow, security considerations, and build phases.
 
